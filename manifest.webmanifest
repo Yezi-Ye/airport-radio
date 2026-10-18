@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "机场无线电频率查询",
+  "short_name": "机场频率",
+  "description": "查询公开数据已收录的机场塔台、地面和其他通信频率。仅供参考。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#175b9e",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
